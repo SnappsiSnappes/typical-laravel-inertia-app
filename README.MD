@@ -3,6 +3,9 @@
 
 # Тестовое задание.
 
+Использовался стартовый шаблон laravel - vue. В нём применяются плагины Sanctrum, Fortify, Wayfinder, библиотека компонентов Shadcn-vue, библиотека иконок - Lucide-vue, Tailwind, Typescript, Vue.
+
+
 для запуска
 
 
